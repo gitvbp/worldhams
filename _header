@@ -1,0 +1,7 @@
+# Disable caching for privacy.html
+/worldhams/privacy.html
+  Cache-Control: no-cache
+
+# Disable caching for app-ads.txt (if moved to root)
+/app-ads.txt
+  Cache-Control: no-cache
